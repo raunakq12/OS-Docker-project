@@ -1,4 +1,4 @@
-# DBMS-MINI-Project
+# DBMS-DOCKER-Project
  DBMS project on topic Online Examination System
 
 <b>Technology Used:</b>
